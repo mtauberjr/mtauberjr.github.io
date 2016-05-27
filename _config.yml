@@ -1,0 +1,207 @@
+
+# Site settings
+
+# NB! Set your site's url, otherwise stuff will break :)
+
+url: "https://mtauberjr.xyz/"
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (https://yourusername.github.io/repository-name)
+# and NOT your user repository (https://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+#
+# NB! Without this *nothing* will work, because it's used in every path :)
+
+baseurl: "/mtauberjr.github.io"
+
+# Google tracking id to track your visitors
+
+google-tracking-id: ""
+
+# Forces https everywhere in your website, except when you serve it locally
+# If you are not hosted on Github Pages, and your host doesn't support https
+# then you should disable it
+
+force-https: True
+
+#############
+# HTML Head #
+#############
+
+lang: "en"
+author: "Michael Tauber"
+title: "{ mtauberjr }"
+description: "Blog and website of Michael Tauber, blogging mainly for tech. Opinions expressed are mine."
+keywords: "tauber, michael, personal, jekyll, theme, mtauberjr"
+favicon: "/img/favicon.ico"
+
+################
+# Header layout #
+################
+
+black-favicon: "/img/black-lab-glass.ico"
+
+background-img: "/img/3.jpg"
+
+##############################
+# Dynamic Text on the Header #
+##############################
+
+dynamic-typing: True
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 5000
+lines: # You can add HTML Tags in the Text
+  - text: "Fixed White Screen bug"
+  - text: "Secure HTTPS Connection and iPv6 Ready"
+
+me-img: "/img/me.jpg"
+
+##############################
+# Color the browser elements #
+##############################
+color-browser: "#000000"
+apple-status-bar-style: "black"
+
+################
+# Web app mode #
+################
+
+web-app-mode: True
+
+# Icons for Web App mode
+
+icon-36p: "/img/web-app/icon-36p.png"
+icon-48p: "/img/web-app/icon-48p.png"
+icon-72p: "/img/web-app/icon-72p.png"
+icon-96p: "/img/web-app/icon-96p.png"
+icon-144p: "/img/web-app/icon-144p.png"
+icon-192p: "/img/web-app/icon-192p.png"
+
+########
+# Blog #
+########
+
+post-preview-words: 96
+
+paginate: 5
+
+email-share: True
+fb-share: True
+twitter-share: True
+linkedin-share: True
+reddit-share: True
+google-plus-share: True
+tumblr-share: True
+pinterest-share: True
+pocket-share: True
+vkontakte-share: True
+
+disqus-shortname: "mtauberjr"
+
+syntax-highlight: True
+
+############
+# Timeline #
+############
+
+events:
+#  - image: "/img/pcloud.png"
+#    date: "pCloud File Storage"
+#    description: "ISO's, Programs, Etc"
+#    url: "https://my.pcloud.com/publink/show?code=kZAGNkZAOfjdXWmCPXirjuIqapmn8DauDaX#folder=23866229&page=publink&code=kZAGNkZAOfjdXWmCPXirjuIqapmn8DauDaX"
+  - image: "/img/stremio.png"
+    date: "Strem.io"
+    description: "Get your Movies On! (Kinda like Popcorntime)"
+    url: "http://strem.io"
+  - image: "/img/ninite.png"
+    date: "Ninite"
+    description: "Install Multiple Programs Quickly without Toolbars and Junk"
+    url: "http://ninite.com"
+#  - image: "/img/time.png"
+#    date: "Popcorntime.io"
+#    description: "Mirror of old site. [Fix here for movies not showing up](http://mtauberjr.tk/files/Popcorn-Time%20Patch%20.NET4.5%20YTS.AG.zip)"
+#   url: "http://web.archive.org/web/20150909191012/https://popcorntime.io/"
+  - image: "/img/adrive.jpg"
+    date: "Amazon Cloud Drive"
+    description: "Files, ISO's, Programs, Etc"
+    url: "https://www.amazon.com/clouddrive/share/ntr9OYogfB0r9ySAdTHmnJ6Dim82n1iVlwZcuoRD0s6?ref_=cd_ph_share_link_copy"
+  - image: "/img/newpop.png"
+    date: "Popcorntime"
+    description: "It's back ;)"
+    url: "https://popcorntime.sh/"
+
+# First image of the Timeline
+
+timeline-img: "/img/timeline/default.png"
+
+###########
+# Contact #
+###########
+
+email: "mtauberjr@gmail.com"
+
+################
+# Author Blurb #
+################
+
+# The author blurb goes underneath blog posts.
+# This works best when your author blurb image has a transparent background, or matches your site background color.
+
+# if the author_blurb is not set, then this feature is skipped
+author_blurb: "Blog From Michael Tauber"
+author_blurb_image: "/img/me.jpg"
+
+##################
+# Social Buttons #
+##################
+
+social:
+  - title: "facebook"
+    url: "https://facebook.com/yottamike"
+  - title: "twitter"
+    url: "https://twitter.com/mtauberjr"
+  - title: "github"
+    url: "https://github.com/mtauberjr"
+  - title: "paypal"
+    url: "https://PayPal.Me/mtauberjr"
+  - title: "rss"
+    url: "/feed.xml"
+
+############
+# 404 page #
+############
+
+404-img: "/img/labtocat.png"
+
+################################################################################
+
+# NB! Tread carefully if you want to change the variables below this point!
+
+# Sections shown in the index page
+
+pages_list:
+  Twitter: 'about'
+  Blog: 'latest-post'
+  Pages: 'timeline'
+  Contact: 'contact'
+
+# Exclusion list from the generated _site
+
+exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+
+# Pagination path
+
+paginate_path: "blog/page:num/"
+
+# Enable minification SASS
+
+sass:
+  style: compressed
+
+gems:
+  - jekyll-paginate
+  - jemoji
