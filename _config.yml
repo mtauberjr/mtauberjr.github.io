@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Fixed White Screen bug"
-  - text: "Secure HTTPS Connection and iPv6 Ready"
+  - text: "Fixed White Screen bug and other bug fixes"
+  - text: "Secure HTTPS Connection and IPv6 Ready"
 
 me-img: "/img/me.jpg"
 
