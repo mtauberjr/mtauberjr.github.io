@@ -135,7 +135,7 @@ events:
     url: "https://popcorntime.sh/"
   - image: "/img/vpnht.png"
     date: "VPN.HT"
-    description: "Hightly Recommnend to use a VPN with Popcorn"
+    description: "Hightly recommend to use a VPN with Popcorn"
     url: "https://vpn.ht"
 
 # First image of the Timeline
