@@ -137,7 +137,7 @@ events:
     date: "VPN.HT"
     description: "Highly recommend to use a VPN with Popcorn"
     url: "https://vpn.ht"
-  - image: "/img/Screenmaker.tiff"
+  - image: "/img/Screenmaker.png"
     date: "ScreenPush"
     description: "Bringing Animated Wallpapers to macOS"
     url: "http://http://mtauberjr.xyz/ScreenPush/"
