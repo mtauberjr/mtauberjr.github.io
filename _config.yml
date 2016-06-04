@@ -140,7 +140,7 @@ events:
   - image: "/img/Screenmaker.png"
     date: "ScreenPush"
     description: "Bringing Animated Wallpapers to macOS"
-    url: "http://mtauberjr.xyz/ScreenPush/"
+    url: "mtauberjr.xyz/ScreenPush/"
     
 
 # First image of the Timeline
