@@ -59,7 +59,8 @@ lines: # You can add HTML Tags in the Text
   - text: "Added Adblock iOS to Pages"
   - text: "Added Rufus to Pages"
   - text: "Added Delete Personal data from MS Cloud to Pages"
-
+  - text: "Added uBlock Origin to Pages"
+  
 me-img: "/img/me.jpg"
 
 ##############################
@@ -159,6 +160,10 @@ events:
     date: "Delete Synced Data on 8 and 10"
     description: "Delete your personal settings from the cloud"
     url: "https://onedrive.live.com/win8personalsettingsprivacy/"
+  - image: "/img/ublock.png"
+    date: "uBlock Origin"
+    description: "Highly Recommended Chrome Extension"
+    url: "https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en"
 
 # First image of the Timeline
 
