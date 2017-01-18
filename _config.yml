@@ -155,7 +155,7 @@ events:
     date: "Rufus"
     description: "Create bootable USB drives the easy way"
     url: "https://rufus.akeo.ie/"
-  - image: "/img/sync.png"
+  - image: "/img/clean.jpg"
     date: "Delete Synced Data on 8 and 10"
     description: "Delete your personal settings from the cloud"
     url: "https://onedrive.live.com/win8personalsettingsprivacy/"
