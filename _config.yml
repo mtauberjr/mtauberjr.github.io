@@ -55,7 +55,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "HTTPS Connection"
+  - text: "Added Have I been Pwned? to pages"
   - text: "Added Adblock iOS to Pages"
 
 me-img: "/img/me.jpg"
@@ -145,6 +145,10 @@ events:
     date: "Adblock iOS"
     description: "Best Adblocker on iOS Block more then just Safari"
     url: "https://www.adblockios.com/"
+  - image: "/img/pwn.png"
+    date: "Have I Been Pwned?"
+    description: "Check if you have an account that has been compromised in a data breach"
+    url: "https://haveibeenpwned.com/"
     
 
 # First image of the Timeline
