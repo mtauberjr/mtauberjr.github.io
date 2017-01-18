@@ -58,6 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Added Have I been Pwned? to pages"
   - text: "Added Adblock iOS to Pages"
   - text: "Added Rufus to Pages"
+  - text: "Added Delete Personal data from MS Cloud to Pages"
 
 me-img: "/img/me.jpg"
 
@@ -154,6 +155,10 @@ events:
     date: "Rufus"
     description: "Create bootable USB drives the easy way"
     url: "https://rufus.akeo.ie/"
+  - image: "/img/sync.png"
+    date: "Delete Synced Data on 8 and 10"
+    description: "Delete your personal settings from the cloud"
+    url: "https://onedrive.live.com/win8personalsettingsprivacy/"
 
 # First image of the Timeline
 
