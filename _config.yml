@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Removed Strem.io"
-  - text: "Added AdblockiOS to pages"
+  - text: "HTTPS Connection"
+  - text: "Added Adblock iOS to Pages"
 
 me-img: "/img/me.jpg"
 
@@ -113,10 +113,10 @@ events:
 #    date: "pCloud File Storage"
 #    description: "ISO's, Programs, Etc"
 #    url: "https://my.pcloud.com/publink/show?code=kZAGNkZAOfjdXWmCPXirjuIqapmn8DauDaX#folder=23866229&page=publink&code=kZAGNkZAOfjdXWmCPXirjuIqapmn8DauDaX"
-#  - image: "/img/stremio.png"
-#    date: "Strem.io"
-#    description: "Get your Movies On! (Kinda like Popcorntime)"
-#    url: "http://strem.io"
+  - image: "/img/stremio.png"
+    date: "Strem.io"
+    description: "Get your Movies On! (Kinda like Popcorntime)"
+    url: "http://strem.io"
   - image: "/img/ninite.png"
     date: "Ninite"
     description: "Install Multiple Programs Quickly without Toolbars and Junk"
