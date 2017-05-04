@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+
+<ShortName>Google</ShortName>
+
+<Description>Search Google</Description>
+
+<Url method="get" type="text/html"
+
+template="https://www.google.com/search?q={searchTerms}"/>
+
+</OpenSearchDescription>
