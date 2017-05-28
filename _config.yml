@@ -66,10 +66,10 @@ events:
   date: Ninite
   description: Install Multiple Programs Quickly without Toolbars and Junk
   url: http://ninite.com
-- image: "/img/adrive.jpg"
-  date: Amazon Cloud Drive
-  description: Files, ISO's, Programs, Etc
-  url: https://www.amazon.com/clouddrive/share/ntr9OYogfB0r9ySAdTHmnJ6Dim82n1iVlwZcuoRD0s6?ref_=cd_ph_share_link_copy
+#- image: "/img/adrive.jpg"
+#  date: Amazon Cloud Drive
+#  description: Files, ISO's, Programs, Etc
+# url: https://www.amazon.com/clouddrive/share/ntr9OYogfB0r9ySAdTHmnJ6Dim82n1iVlwZcuoRD0s6?ref_=cd_ph_share_link_copy
 - image: "/img/newpop.png"
   date: Popcorntime
   description: It's back ;)
@@ -102,6 +102,10 @@ events:
   date: uBlock Origin
   description: Highly Recommended Chrome Extension
   url: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
+- image: "/img/ftp.png"
+  date: FTP
+  description: Files, ISO's, Programs, Etc
+  url: ftp://ftp.mtauberjr.xyz
 timeline-img: "/img/timeline/default.png"
 email: mtauberjr@gmail.com
 author_blurb: Blog From Michael Tauber
