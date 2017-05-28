@@ -66,10 +66,6 @@ events:
   date: Ninite
   description: Install Multiple Programs Quickly without Toolbars and Junk
   url: http://ninite.com
-#- image: "/img/adrive.jpg"
-#  date: Amazon Cloud Drive
-#  description: Files, ISO's, Programs, Etc
-# url: https://www.amazon.com/clouddrive/share/ntr9OYogfB0r9ySAdTHmnJ6Dim82n1iVlwZcuoRD0s6?ref_=cd_ph_share_link_copy
 - image: "/img/newpop.png"
   date: Popcorntime
   description: It's back ;)
