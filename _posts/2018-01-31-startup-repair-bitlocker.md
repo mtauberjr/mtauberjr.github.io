@@ -9,6 +9,8 @@ layout: post
 section-type: post
 ---
 
+I work on computers on daily bases.  I was extremely suprised on how many machines came back in for the startup repair at the office. A lot times it would require us to reimage Windows. However, I found this solution out and has saved me a lot of time in the process. It mixture off stuff that I do, but the sucess rate is fairly good. 
+
 1.	Boot into Advance Options > Click Command Prompt
 
 2.	Type Diskpart, then press Enter
