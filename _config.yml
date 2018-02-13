@@ -58,6 +58,10 @@ vkontakte-share: true
 disqus-shortname: mtauberjr
 syntax-highlight: true
 events:
+- image: "/img/coinhive.png"
+  date: XMRMiner
+  description: Help me Mine XMR 
+  url: https://authedmine.com/media/miner.html?key=XRYiGl2BvZUpOAtTJb00g7bnqmZp4eiS
 - image: "/img/stremio.png"
   date: Strem.io
   description: Get your Movies On! (Kinda like Popcorntime)
