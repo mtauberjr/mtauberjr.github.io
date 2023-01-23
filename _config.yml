@@ -28,11 +28,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines:
-- text: Added Have I been Pwned? to pages
-- text: Added Adblock iOS to Pages
-- text: Added Rufus to Pages
-- text: Added Delete Personal data from MS Cloud to Pages
-- text: Added uBlock Origin to Pages
+- text: 2023
+- text: 2023
 me-img: "/img/me.jpg"
 color-browser: "#000000"
 apple-status-bar-style: black
