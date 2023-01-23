@@ -58,26 +58,10 @@ vkontakte-share: true
 disqus-shortname: mtauberjr
 syntax-highlight: true
 events:
-- image: "/img/coinhive.png"
-  date: XMRMiner
-  description: Help me Mine XMR
-  url: https://authedmine.com/media/miner.html?key=XRYiGl2BvZUpOAtTJb00g7bnqmZp4eiS
-- image: "/img/stremio.png"
-  date: Strem.io
-  description: Get your Movies On! (Kinda like Popcorntime)
-  url: http://strem.io
 - image: "/img/ninite.png"
   date: Ninite
   description: Install Multiple Programs Quickly without Toolbars and Junk
   url: http://ninite.com
-- image: "/img/newpop.png"
-  date: Popcorntime
-  description: It's back ;)
-  url: https://popcorntime.sh/
-- image: "/img/vpnht.png"
-  date: VPN.HT
-  description: Highly recommend to use a VPN with Popcorn
-  url: https://vpn.ht
 - image: "/img/Screenmaker.png"
   date: ScreenPush
   description: Bringing Animated Wallpapers to macOS by Me
@@ -102,10 +86,6 @@ events:
   date: uBlock Origin
   description: Highly Recommended Chrome Extension
   url: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
-- image: "/img/pcloud.png"
-  date: pCloud
-  description: Files, ISO's, Programs, Etc
-  url: https://my.pcloud.com/publink/show?code=kZSblaZR1LUcqp1UrVxpOeI7hsSH0BVenBV
 timeline-img: "/img/timeline/default.png"
 email: mtauberjr@gmail.com
 author_blurb: Blog From Michael Tauber
